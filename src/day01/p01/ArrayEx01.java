@@ -1,8 +1,8 @@
-package algorithm;
+package day01.p01;
 
 public class ArrayEx01 {
 	// 문제
-	public static void main(String[] args) {
+	public static void process() {
 
 		int sum = 0; // 총점을 저장하기 위한 변수
 		float average = 0; // 평균을 저장하기 위한 변수
